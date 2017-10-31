@@ -4,6 +4,6 @@ Innovation Lab Project
 Jai Tatia<br />
 Kshitij Jauhri<br />
 Shashwat Tiwari<br />
-Abhijit Roy
+Abhijit ROY
 
 An institute based software for managing courses.
